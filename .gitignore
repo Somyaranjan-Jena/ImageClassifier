@@ -2,6 +2,8 @@
 archive.zip
 raw_data/
 data/
+models/
+
 
 # Ignore virtual environment
 venv/
