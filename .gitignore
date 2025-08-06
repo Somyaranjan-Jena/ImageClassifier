@@ -1,1 +1,9 @@
-"venv/" 
+# Ignore dataset and archive files
+archive.zip
+raw_data/
+data/
+
+# Ignore virtual environment
+venv/
+__pycache__/
+*.pyc
